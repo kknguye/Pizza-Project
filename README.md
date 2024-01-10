@@ -1,1 +1,2 @@
 # Pizza-Project
+This program simulates the a menu-based system for a pizzaria. It is a multifile program that prompts users to create their own pizzas with different toppings. It will calculate the price of the pizza, including tax. The customer can join a rewards program and get a discount on their pizza(s). This was a semester-long project that was updated and revised throughout the entire semester.
